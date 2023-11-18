@@ -1,10 +1,9 @@
 ﻿using Moq;
 
-namespace SpaceBattle.Lib.Tests;
+namespace SpaceBattle.Tests;
 
 public class MoveCommandTest
 {
-
     // 1. Всё работает
     // 2. Не читается Position
     // 3. Не читается Velocity
